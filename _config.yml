@@ -22,7 +22,7 @@ title: Subrosa Tech
 email: tech_sub_rosa@pm.me
 show_excerpts: true
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my tech grimoire
+  Benvenuti to my tech grimoire
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: subrosatech

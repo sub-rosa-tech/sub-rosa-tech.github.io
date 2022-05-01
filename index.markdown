@@ -3,4 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+list_title: My Latest Musings
 ---
+
+ Benvenuti to my tech grimoire
